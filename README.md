@@ -2,7 +2,7 @@
 Shaarli plugin to add favicon/filetype icons to links.
 
 ## Installation
-The plugin's folder (`urlextern`) should be placed in the `<shaarli>/plugins/` directory.
+The plugin's folder (`favicons`) should be placed in the `<shaarli>/plugins/` directory.
 
 The directory structure should look like:
 
