@@ -37,3 +37,4 @@ None - enable/disable in the Plugin Administration page.
 - [Google Favicon snatcher](https://www.google.com/s2/favicons?domain=www.google.com)
 - [Iconify.design](https://iconify.design/)
 - [Add Auto-sensing File Type Icons to lists of downloads, with FontAwesome and CSS](https://gschoppe.com/uncategorized/add-auto-sensing-file-type-icons-to-lists-of-downloads-with-fontawesome-and-css/) by [Greg Schoppe](http://gschoppe.com)
+-  [ jQuery 3.3.1](https://code.jquery.com/jquery-3.3.1.slim.min.js)
