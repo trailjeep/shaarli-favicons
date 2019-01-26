@@ -1,6 +1,8 @@
 # shaarli-favicons
 Shaarli plugin to add favicon/filetype icons to links.
 
+Tested with Shaarli [default](https://github.com/shaarli/Shaarli/tree/master/tpl/default) and [Shaarli-Material](https://github.com/kalvn/Shaarli-Material) templates.
+
 ## Installation
 The plugin's folder (`favicons`) should be placed in the `<shaarli>/plugins/` directory.
 
