@@ -3,6 +3,12 @@
 
 Tested with Shaarli [default](https://github.com/shaarli/Shaarli/tree/master/tpl/default) and [Shaarli-Material](https://github.com/kalvn/Shaarli-Material) templates.
 
+## Considerations
+- May slow down page load time, especially if Links per page is set high.
+- Webserver [HTTP Content-Security-Policy img-src](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/img-src) directive (specifies valid sources of images and favicons) if set should exempt (`<host-source>`):
+    - `https://www.google.com`
+    - `https://api.iconify.design`
+
 ## Screenshot
 ![Screenshot of shaarli-favicons plugin](screenshot2.png)
 
