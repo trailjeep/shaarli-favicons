@@ -34,5 +34,5 @@ The `general.enabled_plugins` list should look like this:
 None - enable/disable in the Plugin Administration page.
 
 ## Credits
-
-Uses [Google Favicon snatcher](https://www.google.com/s2/favicons?domain=www.google.com)
+- [Google Favicon snatcher](https://www.google.com/s2/favicons?domain=www.google.com)
+- [Iconify.design](https://iconify.design/)
