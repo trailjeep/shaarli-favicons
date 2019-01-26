@@ -3,6 +3,10 @@
 
 Tested with Shaarli [default](https://github.com/shaarli/Shaarli/tree/master/tpl/default) and [Shaarli-Material](https://github.com/kalvn/Shaarli-Material) templates.
 
+## Scrrenshot
+![Screenshot of shaarli-favicons plugin](screenshot1.png)
+
+
 ## Installation
 The plugin's folder (`favicons`) should be placed in the `<shaarli>/plugins/` directory.
 
