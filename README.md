@@ -3,8 +3,8 @@
 
 Tested with Shaarli [default](https://github.com/shaarli/Shaarli/tree/master/tpl/default) and [Shaarli-Material](https://github.com/kalvn/Shaarli-Material) templates.
 
-## Scrrenshot
-![Screenshot of shaarli-favicons plugin](screenshot1.png)
+## Screenshot
+![Screenshot of shaarli-favicons plugin](screenshot2.png)
 
 
 ## Installation
