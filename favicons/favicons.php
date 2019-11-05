@@ -6,6 +6,8 @@
  * @link 
  */
 
+use Shaarli\Plugin\PluginManager;
+
 /**
  * Hook render_includes.
  * Executed on every page redering.
