@@ -1,6 +1,7 @@
 .link-header a.link-title, .linklist-item-title h2 a { background-repeat: no-repeat; background-position: 0 center; padding: 0 0 0 1.25em; }
 .linklist-item-title a i { display: none; }
 .link-description a, .linklist-item-description a { background-repeat: no-repeat; background-position: 0 center; padding: 0 0 0 1.25em; }
+.link-description a[href*="/add-tag/"], .linklist-item-description a[href*="/add-tag/"] { background-image: none !important; padding: 0 !important; }
 a[href$=".txt"], a[href$=".text"] { background: url('https://api.iconify.design/fa-file-text-o.svg?color=%23000') no-repeat 0 center; padding-left: 1.25em; }
 a[href$=".pdf"] { background: url('https://api.iconify.design/fa-file-pdf-o.svg?color=%23000') no-repeat 0 center; padding-left: 1.25em; }
 a[href$=".doc"], a[href$=".docx"] { background: url('https://api.iconify.design/fa-file-word-o.svg?color=%23000') no-repeat 0 center; padding-left: 1.25em; }
